@@ -1,4 +1,4 @@
-#Uber Cancellation Analysis Dashboard 🚗❌
+#**Uber Cancellation Analysis Dashboard**:
 
 Explore an interactive Power BI dashboard that dives deep into Uber ride cancellations — uncovering why, when, and where cancellations happen most often.
 
@@ -26,4 +26,4 @@ Driver & Rider Insights: Identification of users with high cancellation frequenc
 Data Sources:The dataset used for this analysis is sourced from Kaggle, a popular platform for public datasets and data science competitions.
 
 Screenshot/Demo:
-Example: [Dahsboard]( 
+Example: [Dahsboard](https://github.com/Priyanshu8808/Priyanshu8808-Uber-ride-cancellation-analysis/blob/main/uber.png).

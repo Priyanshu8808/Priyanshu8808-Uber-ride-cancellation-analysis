@@ -1,4 +1,9 @@
 #**Uber Cancellation Analysis Dashboard**:
+[![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-blue)](https://powerbi.microsoft.com/) 
+[![SQL](https://img.shields.io/badge/SQL-Database-orange)](https://www.microsoft.com/en-us/sql-server/) 
+[![Excel](https://img.shields.io/badge/Excel-Data%20Prep-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+---
 
 Explore an interactive Power BI dashboard that dives deep into Uber ride cancellations — uncovering why, when, and where cancellations happen most often.
 
